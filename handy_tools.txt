@@ -1,0 +1,13 @@
+1. Need dummy text for whatever reason
+https://hipsum.co
+
+2. text editor for MAC
+install textmate from macromates.com
+
+To open the editor directly from the terminal
+Open textmate, goto preference and click on Terminal. Install the shell support.
+From the terminal, type mate to launch textmate
+
+3. 
+
+
